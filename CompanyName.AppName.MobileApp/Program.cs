@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Run or start developing the mobile app from the Common folder");

@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Run or start developing the web app from the Common folder");
